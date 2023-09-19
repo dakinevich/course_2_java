@@ -45,7 +45,7 @@ public class prak1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите количество элементов в массиве: ");
         int n = scanner.nextInt(); // считываем количество элементов в массиве
-        int[] arr = new int[n]; // создаем массив заданного размера
+        int[] arr = new int[n];
 
         // заполняем массив элементами, введенными с клавиатуры
         for (int i = 0; i < n; i++) {
