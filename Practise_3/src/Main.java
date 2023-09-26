@@ -19,9 +19,6 @@ public class Main {
         task6();
         System.out.println("\nЗадание 7");
         task7();
-
-
-
     }
 
     private static void task1(){
